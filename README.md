@@ -2,6 +2,6 @@
 
 ## Introduction 
 
-## Purpose
+## Purpose for training
 
 ## How to Contribute
