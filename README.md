@@ -5,3 +5,5 @@
 ## Purpose for training
 
 ## How to Contribute
+
+### Copyright
